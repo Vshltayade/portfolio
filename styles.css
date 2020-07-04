@@ -12,6 +12,7 @@ body {
 }
 .side-img{
     width: 50%;
+    padding:25%;
 }
 .primary-btn{
     color: white;
